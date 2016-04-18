@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="de">
+
+  <category name="wcf.acp.menu">
+    <item name="wcf.acp.menu.link.clan"><![CDATA[Clan]]></item>
+  </category>
+
+  <category name="wcf.acp.group">
+    <item name="wcf.acp.group.option.category.admin.clan"><![CDATA[Clan]]></item>
+  </category>
+
+  <category name="wcf.page">
+    <item name="wcf.page.training"><![CDATA[Training Center]]></item>
+    <item name="wcf.page.personnel"><![CDATA[Personnel]]></item>
+    <item name="wcf.page.downrange"><![CDATA[Downrange]]></item>
+    <item name="wcf.page.pa"><![CDATA[Public Affairs]]></item>
+  </category>
+
+</language>
