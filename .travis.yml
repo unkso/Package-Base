@@ -8,6 +8,6 @@ git:
   depth: 5
 env:
   global:
-    - IDENTIFIER=com.clanunknownsoldiers.system.base
+    - IDENTIFIER=com.clanunknownsoldiers.plugin.base
 
 after_success: curl --ftp-create-dirs -T {$IDENTIFIER}.tar -u $FTP_USER:$FTP_PASSWORD $FTP_HOST
