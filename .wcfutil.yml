@@ -8,5 +8,3 @@ package:
         tarball:
             - files
             - templates
-        folder:
-            - language
