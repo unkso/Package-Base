@@ -3,7 +3,7 @@
 	<packageinformation>
 		<packagename>=US= Forum Base Package</packagename>
 		<packagedescription>The base package that every Unknown Soldiers forum package needs to require.</packagedescription>
-		<version>1.0.9</version>
+		<version>1.1.0</version>
 		<date>2015-10-11</date>
 	</packageinformation>
 

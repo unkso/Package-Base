@@ -12,11 +12,6 @@
       <position>header</position>
     </pagemenuitem>
 
-    <pagemenuitem name="wcf.page.downrange">
-      <controller><![CDATA[wcf\page\DownrangePage]]></controller>
-      <position>header</position>
-    </pagemenuitem>
-
     <pagemenuitem name="wcf.page.pa">
       <controller><![CDATA[wcf\page\PublicAffairsPage]]></controller>
       <position>header</position>

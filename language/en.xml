@@ -12,7 +12,6 @@
   <category name="wcf.page">
     <item name="wcf.page.training"><![CDATA[Training Center]]></item>
     <item name="wcf.page.personnel"><![CDATA[Personnel]]></item>
-    <item name="wcf.page.downrange"><![CDATA[Downrange]]></item>
     <item name="wcf.page.pa"><![CDATA[Public Affairs]]></item>
   </category>
 
