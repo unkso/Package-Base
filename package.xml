@@ -3,13 +3,13 @@
     <packageinformation>
         <packagename>=US= Forum Base Package</packagename>
         <packagedescription>The base package that every Unknown Soldiers forum package needs to require.</packagedescription>
-        <version>1.1.1</version>
-        <date>2015-10-11</date>
+        <version>1.2.0</version>
+        <date>2016-07-27</date>
     </packageinformation>
 
     <authorinformation>
         <author>Christopher Mühl</author>
-        <authorurl>http://www.padarom.de/</authorurl>
+        <authorurl>https://www.padarom.io/</authorurl>
     </authorinformation>
 
     <requiredpackages>
@@ -19,14 +19,22 @@
 
     <instructions type="install">
         <instruction type="language">language/*.xml</instruction>
-        <instruction type="acpMenu">acpMenu.xml</instruction>
-        <instruction type="userGroupOption">userGroupOption.xml</instruction>
         <instruction type="file">files.tar</instruction>
         <instruction type="template">templates.tar</instruction>
-        <instruction type="pageMenu">pageMenu.xml</instruction>
+        <instruction type="pageMenu">xml/pageMenu.xml</instruction>
+        <instruction type="acpMenu">xml/acpMenu.xml</instruction>
+        <instruction type="userGroupOption">xml/userGroupOption.xml</instruction>
+        <instruction type="option">xml/option.xml</instruction>
     </instructions>
 
     <instructions type="update" fromversion="1.1.0">
-        <instruction type="userGroupOption">userGroupOption.xml</instruction>
+        <instruction type="userGroupOption">xml/userGroupOption.xml</instruction>
+    </instructions>
+
+    <instructions type="update" fromversion="1.1.1">
+        <instruction type="file">files.tar</instruction>
+        <instruction type="acpMenu">xml/acpMenu.xml</instruction>
+        <instruction type="userGroupOption">xml/userGroupOption.xml</instruction>
+        <instruction type="option">xml/option.xml</instruction>
     </instructions>
 </package>

@@ -4,5 +4,9 @@
 		<acpmenuitem name="wcf.acp.menu.link.clan">
 			<parent></parent>
 		</acpmenuitem>
+
+		<acpmenuitem name="wcf.acp.menu.link.clan.settings">
+			<parent>wcf.acp.menu.link.clan</parent>
+		</acpmenuitem>
 	</import>
 </data>

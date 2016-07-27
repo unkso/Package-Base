@@ -15,4 +15,21 @@
     <item name="wcf.page.pa"><![CDATA[Public Affairs]]></item>
   </category>
 
+  <category name="wcf.acp.option">
+    <item name="wcf.acp.option.category.clan"><![CDATA[Clan]]></item>
+    <item name="wcf.acp.option.category.clan.application"><![CDATA[Applications]]></item>
+    <item name="wcf.acp.option.category.clan.general"><![CDATA[General]]></item>
+    <item name="wcf.acp.option.category.clan.general.teamspeak"><![CDATA[TeamSpeak Server]]></item>
+
+    <item name="wcf.acp.option.unkso_allow_applications"><![CDATA[Allow members to apply for clan membership]]></item>
+    <item name="wcf.acp.option.unkso_applications_board_id"><![CDATA[Application Forum]]></item>
+    <item name="wcf.acp.option.unkso_applications_board_id.description"><![CDATA[This is the forum applications will be posted to]]></item>
+    <item name="wcf.acp.option.unkso_game_servers"><![CDATA[Clan Servers]]></item>
+    <item name="wcf.acp.option.unkso_game_servers.description"><![CDATA[A list of the clan's game servers as IP & Port or URL (one per line)]]></item>
+
+    <item name="wcf.acp.option.unkso_teamspeak_server_host"><![CDATA[Hostname]]></item>
+    <item name="wcf.acp.option.unkso_teamspeak_server_port"><![CDATA[Port]]></item>
+    <item name="wcf.acp.option.unkso_teamspeak_server_password"><![CDATA[Password]]></item>
+  </category>
+
 </language>
