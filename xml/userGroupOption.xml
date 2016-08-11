@@ -7,9 +7,19 @@
                 <showorder>7</showorder>
             </category>
 
+            <category name="admin.clan.general">
+                <parent>admin.clan</parent>
+                <showorder>1</showorder>
+            </category>
+
             <category name="mod.clan">
                 <parent>mod</parent>
-                <showorder>7</showorder>
+                <showorder>3</showorder>
+            </category>
+
+            <category name="mod.clan.general">
+                <parent>mod.clan</parent>
+                <showorder>1</showorder>
             </category>
         </categories>
 
