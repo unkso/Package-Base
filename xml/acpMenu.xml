@@ -7,6 +7,7 @@
 
 		<acpmenuitem name="wcf.acp.menu.link.clan.settings">
 			<parent>wcf.acp.menu.link.clan</parent>
+			<showorder>1</showorder>
 		</acpmenuitem>
 	</import>
 </data>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="de">
-
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="en" languagename="English" countrycode="gb">
   <category name="wcf.acp.menu">
     <item name="wcf.acp.menu.link.clan"><![CDATA[Clan]]></item>
+    <item name="wcf.acp.menu.link.clan.settings"><![CDATA[General Settings]]></item>
   </category>
 
   <category name="wcf.acp.group">
@@ -31,5 +31,4 @@
     <item name="wcf.acp.option.unkso_teamspeak_server_port"><![CDATA[Port]]></item>
     <item name="wcf.acp.option.unkso_teamspeak_server_password"><![CDATA[Password]]></item>
   </category>
-
 </language>
