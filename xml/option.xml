@@ -18,7 +18,7 @@
 				<parent>clan</parent>
 			</category>
 		</categories>
-		
+
 		<options>
 			<!-- Are applications currently allowed? -->
 			<option name="unkso_allow_applications">
@@ -42,7 +42,7 @@
 			<!-- Teamspeak Server Host -->
 			<option name="unkso_teamspeak_server_host">
 				<categoryname>clan.general.teamspeak</categoryname>
-				<optiontype>string</optiontype>
+				<optiontype>text</optiontype>
 			</option>
 
 			<!-- Teamspeak Server Port -->
@@ -55,7 +55,7 @@
 			<!-- Teamspeak Server Password -->
 			<option name="unkso_teamspeak_server_password">
 				<categoryname>clan.general.teamspeak</categoryname>
-				<optiontype>string</optiontype>
+				<optiontype>text</optiontype>
 			</option>
 		</options>
 	</import>

@@ -21,16 +21,16 @@
                 <parent>mod.clan</parent>
                 <showorder>1</showorder>
             </category>
+
+            <category name="user.clan">
+                <parent>user</parent>
+                <showorder>8</showorder>
+            </category>
         </categories>
 
         <options>
-            <option name="admin.clan.canChangeClanSettings">
-                <categoryname>admin.clan</categoryname>
-                <optiontype>boolean</optiontype>
-                <defaultvalue>0</defaultvalue>
-            </option>
-            <option name="admin.clan.canChangeClanServers">
-                <categoryname>admin.clan</categoryname>
+            <option name="user.clan.canAccessInternalPages">
+                <categoryname>user.clan</categoryname>
                 <optiontype>boolean</optiontype>
                 <defaultvalue>0</defaultvalue>
             </option>
