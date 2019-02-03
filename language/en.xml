@@ -6,6 +6,7 @@
   </category>
 
   <category name="wcf.acp.group">
+    <item name="wcf.acp.group.option.category.user.clan"><![CDATA[Clan]]></item>
     <item name="wcf.acp.group.option.category.admin.clan"><![CDATA[Clan]]></item>
     <item name="wcf.acp.group.option.user.clan."><![CDATA[Clan]]></item>
     <item name="wcf.acp.group.option.user.clan.canAccessInternalPages"><![CDATA[Can access clan internal pages]]></item>
